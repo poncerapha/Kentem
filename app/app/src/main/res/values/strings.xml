@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kentem</string>
+    <string name="text_label_1">Home</string>
+    <string name="text_label_2">Buscar</string>
+    <string name="text_label_3">Anúncios</string>
+    <string name="text_label_4">Mensagens</string>
+    <string name="text_label_5">Perfil</string>
+</resources>
