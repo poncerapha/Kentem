@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "173369663215",
+    "firebase_url": "https://kentem-b04b7.firebaseio.com",
+    "project_id": "kentem-b04b7",
+    "storage_bucket": "kentem-b04b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173369663215:android:3e1da0aca30e722969851a",
+        "android_client_info": {
+          "package_name": "com.example.kentem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173369663215-i1pkcsutdll4g4ihivlj0nsf9gd8k2pa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kentem",
+            "certificate_hash": "5422faaca5eda85d7be87fd6b7bce275c913baff"
+          }
+        },
+        {
+          "client_id": "173369663215-ujd099nru3j9pg5c4tv70ve1eqr7g333.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zU7fSDvEQB40Xi8mv2VVx_HL7q2SdGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173369663215-ujd099nru3j9pg5c4tv70ve1eqr7g333.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
